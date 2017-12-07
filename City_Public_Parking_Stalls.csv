@@ -1,146 +1,124 @@
-LOCATION,Quantity,METER NUMBERS,RATE/HR,TIMELIMIT,TYPE
-Aala Place,12,1175-1185,$0.75 ,2 HRS,On-street
-Aala St.,73,1101-1173,$0.75 ,2 HRS,On-street
-Alakea St.,4,401-404,$1.50 ,1 HR,On-street
-Alapai St.,16,2127-2142,$0.75 ,2 HRS,On-street
-Aloha Drive,19,4601-4620,$1.50 ,2 HRS,On-street
-Auahi St.,45,3600-3644,$1.50 ,2 HRS,On-street
-Beachwalk,6,4461-4468,$1.50 ,2 HRS,On-street
-Bethel St.,19,1670-1688,$1.50 ,1 HR,On-street
-Bishop St.,14,1631-1644,$1.50 ,1 HR,On-street
-Fort St.,18,1600-1617,$1.50 ,1 HR,On-street
-Hale Makai St.,6,4026,$0.75 ,2 HRS,On-street
-Hobron Ln.,35,4401-4435,$1.50 ,2 HRS,On-street
-Kalaimoku St.,21,4541-4567,$1.50 ,2 HRS,On-street
-Kanekapolie St.,13,507-525,$1.50 ,2 HRS,On-street
-Kapahulu Ave. Ala Wai-Kalakaua,39,387-429,$1.50 ,2 HRS,On-street
-Kapahulu Ave. Winam-Harding,7,148-154,$1.50 ,1 HR,On-street
-Keeaumoku St.,29,3020-3048,$0.75 ,2 HRS,On-street
-Kukui St. Aala-College Walk,20,"600-608, 661-671",$1.50 ,1 HR,On-street
-Kukui St. Queen Emma St-River,52,"609-639, 646-660",$0.75 ,1 HR,On-street
-Lewers SR.,8,"716, 721-722, 732-736",$1.50 ,2 HRS,On-street
-Marin St.,3,1650-1652,$1.50 ,1 HR,On-street
-Maunakea St.,63,1238-1299,$1.50 ,1 HR,On-street
-McCully St.,5,796-800,$1.50 ,2 HRS,On-street
-Merchant St.,11,1655-1665,$1.50 ,1 HR,On-street
-Mililani St.,11,1885-1895,$1.50 ,1 HR,On-street
-N. Beretania St.,41,944-984,$0.75 ,1 HR,On-street
-N. King St.,16,"1060-1061, 1079-1092",$0.75 ,2 HRS,On-street
-N. King St.,15,"1063-1067, 1069-1078",$0.75 ,1 HR,On-street
-Nahua St.,21,4701-4721,$1.50 ,2 HRS,On-street
-Nohonani St.,13,4671-4686,$1.50 ,2 HRS,On-street
-Nuuanu Ave.,56,1515-1570,$1.50 ,1 HR,On-street
-Ohua Ave.,25,4801-4825,$1.50 ,2 HRS,On-street
-Olohana St.,19,4513-4533,$1.50 ,2 HRS,On-street
-Pali Hwy.,5,1501-1505,$1.50 ,1 HR,On-street
-Paoakalani Ave.,18,4831-4848,$1.50 ,2 HRS,On-street
-Pauahi St.,37,1701-1737,$1.50 ,1 HR,On-street
-Pensacola St.,20,2351-2370,$0.75 ,2 HRS,On-street
-"Piikoi St. Hopaka-Waimanu, S. King-Young",15,"2988-2996, 3008-3013",$0.75 ,1 HR,On-street
-Puncbowl St.,83,2401-2480,$1.50 ,2 HRS,On-street
-Queen Emma Sq.,18,450-467,$1.50 ,2 HRS,On-street
-Queen Emma St. Queen Emma Sq-Vineyard,17,411-427,$1.50 ,2 HRS,On-street
-Richards St.,32,1815-1846,$1.50 ,1 HR,On-street
-River St.,27,1201-1230,$1.50 ,1 HR,On-street
-Royal Hawaiian Ave.,7,4631-4640,$1.50 ,2 HRS,On-street
-S. Beretania St.,100,2880-2883,$0.75 ,1 HR,On-street
-S. King St. Mililani-Ward,86,143-228,$0.75 ,2 HRS,On-street
-S. King St. Pensacola-Kalakuau,78,2501-2578,$0.75 ,1 HR,On-street
-Saratoga Rd.,19,4441-4459,$1.50 ,2 HRS,On-street
-Seaside Ave.,14,4651-4664,$1.50 ,1 HR,On-street
-Smith St.,36,1304-1339,$1.50 ,1 HR,On-street
-Uluniu Ave. (Waikiki),4,"4771, 4773-4775",$0.75 ,2 HRS,On-street
-Uluniu St. (Kailua),53,5000-5052,$1.50 ,2 HRS,On-street
-Vineyard St.,12,738-749,$1.50 ,2 HRS,On-street
-Victoria St.,39,,$0.75 ,2 HRS,On-street
-Walina St.,16,4731-4746,$1.50 ,2 HRS,On-street
-12th Ave,9,85-93,$0.75 ,1HR,On-street
-Ahana St.,28,3100-3127,$0.75 ,2 HRS,On-street
-Amana St.,25,3070-3094,$0.75 ,2 HRS,On-street
-Aulike St.,19,5300-5318,$0.75 ,2 HRS,On-street
-Cooke St. Ala Moana-Ilalo,21,3788-3892,$0.75 ,2 HRS,On-street
-Cooke St. Pohukaina-S. King St.,84,3800-03883,$0.75 ,1 HR,On-street
-Coral St.,10,3700-3709,$0.75 ,1 HR,On-street
-Halekauwila St. Punchbowl-South,21,"4301-4312, 4349-4357",$0.75 ,2 HRS,On-street
-Halekauwila St. Punchbowl-South,36,4313-4348,$0.75 ,1 HR,On-street
-Hoolai St.,17,5551-5567,$0.75 ,2 HRS,On-street
-Ilalo St.,18,4201-4218,$0.75 ,2 HRS,On-street
-Kaheka St.,51,3128-3178,$0.75 ,2 HRS,On-street
-Kainehe St.,18,5450-5467,$0.75 ,2 HRS,On-street
-Kalakaua Ave.,10,3241-3250,$0.75 ,1 HR,On-street
-Kamakee St.,14,3405-3418,$0.75 ,2 HRS,On-street
-Kanunu St.,49,2701-2749,$0.75 ,2 HRS,On-street
-Kapahulu Ave. Ala Wai-Date,18,125-145,$0.75 ,2 HRS,On-street
-Kapahulu Ave. Date-Alawai,31,181-209,$0.75 ,2 HRS,On-street
-Kapahulu Ave. Haring-Date,26,155-180,$0.75 ,HR,On-street
-Kawaiahao St.,52,2201-2252,$0.75 ,2 HRS,On-street
-Keawe St.,9,3751-3759,$0.75 ,2 HRS,On-street
-Kihapai St.,22,5400-5421,$0.75 ,2 HRS,On-street
-Kinau St. Keeaumoku-Makiki (Makai),5,3325-3329,$0.75 ,1 HR,On-street
-Kinau St. Makiki-Keeaumoku (Mauka),8,3330-3337,$0.75 ,3 HRS,On-street
-Kinau St. Ward Victoria,11,3314-3324,$0.75 ,2 HRS,On-street
-Kohou St.,67,301-537,$0.75 ,2 HRS,On-street
-Kokohead Ave.,29,103-131,$0.75 ,1 HR,On-street
-Kuulei Rd.,32,5200-5231,$0.75 ,2 HRS,On-street
-Lauhala St.,12,4000-4011,$0.75 ,2 HRS,On-street
-Liliha St.,16,1040-1055,$0.75 ,1 HR,On-street
-Liona St.,9,2801-2809,$0.75 ,2 HRS,On-street
-Lunalilo St.,15,3338-3352,$0.75 ,3 HRS,On-street
-Makaloa St.,81,3251-3279,$0.75 ,2 HRS,On-street
-Makiki St.,7,3353-3359,$0.75 ,3 HRS,On-street
-Maluniu Ave.,19,5101-5119,$0.75 ,1 HR,On-street
-Metcalf St.,34,1400-1433,$0.75 ,2 HRS,On-street
-Mission Ln.,9,700-708,$0.75 ,2 HRS,On-street
-N. School St. Frog Ln-Liliha,7,1007-1013,$0.75 ,2 HRS,On-street
-N. School St. Nuuanu-Waikahalulu,6,1001-1006,$0.75 ,1 HR,On-street
-Piikoi St. Kapiolani-Kamaile,16,"2983-2987, 2997-3007",$0.75 ,2 HRS,On-street
-Pohukaina St.,60,3900-3959,$0.75 ,2 HRS,On-street
-Poni St.,20,3201-3220,$0.75 ,2 HRS,On-street
-Puniu St.,12,5500-5511,$0.75 ,2 HRS,On-street
-Coral-Cooke,3,3547-3549,$0.75 ,1 HR,On-street
-Cummins-Kamakee,7,3550-3556,$0.75 ,2 HRS,On-street
-Rycroft St.,29,2782-2812,$0.75 ,2 HRS,On-street
-S. King St. Kahuna-Kahoaloha,20,251-278,$0.75 ,2 HRS,On-street
-Sheridan St.,25,3280-3305,$0.75 ,2 HRS,On-street
-South St.,36,"2142-2144, 2152-2180, 2183-2186",$0.75 ,2 HRS,On-street
-South St.,15,"2145-2151, 2187-2194",,1 HR,On-street
-University Ave.,38,1435-1472,$0.75 ,2 HRS,On-street
-Waialae Ave.,67,May-70,$0.75 ,1 HR,On-street
-Waimanu St.,42,1901-1961,$0.75 ,2 HRS,On-street
-Ward Ave. Queen-Ala Moana,37,2008-2044,$0.75 ,1 HR,On-street
-Ward Ave. S. King Kapiolani (Ewa),7,2001-2007,$0.75 ,2 HRS,On-street
-Young St.,56,2823-2878,$0.75 ,2 HRS,On-street
-CIVIC CENTER LOT,73,H1-H73,$1.50/HR,5 HRS,Lot
-HPD LOT,10,P1-P10,$1.50/HR,2 HRS,Lot
- KAILUA LOT ,81,L1-L83,$0.75/HR,3 HRS,Lot
-KAILUA LOT,58,L91-L147A,$0.75/HR,5 HRS,Lot
-KAILUA ELDERLY LOT ,35,L148-L182,$0.75/HR,3 HRS,Lot
-KAILUA ELDERLY LOT,105,L183-L287,$0.75/HR,5 HRS,Lot
-KAIMUKI LOT,50,K7-K56,$0.75/HR,2 HRS,Lot
-KAIMUKI LOT,56,K58-K110C,$0.75/HR,2 HRS,Lot
-KAPIOLANI LOT,271,Y1-Y271,$0.50/HR,4 HRS,Lot
-KUHIO LOT,58,D1-D58,$1.50/HR,5 HRS,Lot
-PALACE SQUARE LOT,38,E1-E38,$0.75/HR,1/2 HR,Lot
-RIVER LOT,70,J7-J78,$1.50/HR,2 HRS,Lot
-SALT LAKE LOT,19,C6-C24,$0.50/2 HR,2 HRS,Lot
-SALT LAKE LOT,133,C25-C152,$0.10/HR,12 HRS,Lot
-Harbor Village Garage,70,,,,Off-street
-Lani Huli Garage,140,,,,Off-street
-Civic Center Garage,73,,,,Off-street
-HPD Lot Garage,10,,,,Off-street
-Kailua Surface Lot,140,,,,Off-street
-Kaimuki Surface Lot# 2,106,,,,Off-street
-Kuhio-Kaiolu Surface Lot,58,,,,Off-street
-Palace Square Surface Lot,38,,,,Off-street
-Salt Lake Surface Lot,152,,,,Off-street
-Kapiolani Lot,271,,,,Off-street
-Zoo,217,,,,Off-street
-Chinatown Gateway,112,,,,Concession
-Hale Pauahi,197,,,,Concession
-Harbor Court,458,,,,Concession
-Kukui Plaza,434,,,,Concession
-Marin Tower,258,,,,Concession
-Kekaulike,52,,,,Concession
-Smith,121,,,,Concession
-Kaimuki Lot #1,274,,,,Concession
-NBC,1500,,,,Concession
+LOCATION,Quantity,METER NUMBERS,RATE/HR,,TYPE
+Aala Place,12,1175-1185,0.75,2,On-street
+Aala St.,73,1101-1173,0.75,2,On-street
+Alakea St.,4,401-404,1.5,2,On-street
+Alapai St.,16,2127-2142,0.75,1,On-street
+Aloha Drive,19,4601-4620,1.5,2,On-street
+Auahi St.,45,3600-3644,1.5,2,On-street
+Beachwalk,6,4461-4468,1.5,2,On-street
+Bethel St.,19,1670-1688,1.5,2,On-street
+Bishop St.,14,1631-1644,1.5,1,On-street
+Fort St.,18,1600-1617,1.5,1,On-street
+Hale Makai St.,6,4026,0.75,1,On-street
+Hobron Ln.,35,4401-4435,1.5,2,On-street
+Kalaimoku St.,21,4541-4567,1.5,2,On-street
+Kanekapolie St.,13,507-525,1.5,2,On-street
+Kapahulu Ave. Ala Wai-Kalakaua,39,387-429,1.5,2,On-street
+Kapahulu Ave. Winam-Harding,7,148-154,1.5,2,On-street
+Keeaumoku St.,29,3020-3048,0.75,1,On-street
+Kukui St. Aala-College Walk,20,"600-608, 661-671",1.5,2,On-street
+Kukui St. Queen Emma St-River,52,"609-639, 646-660",0.75,1,On-street
+Lewers SR.,8,"716, 721-722, 732-736",1.5,1,On-street
+Marin St.,3,1650-1652,1.5,2,On-street
+Maunakea St.,63,1238-1299,1.5,1,On-street
+McCully St.,5,796-800,1.5,1,On-street
+Merchant St.,11,1655-1665,1.5,2,On-street
+Mililani St.,11,1885-1895,1.5,1,On-street
+N. Beretania St.,41,944-984,0.75,1,On-street
+N. King St.,16,"1060-1061, 1079-1092",0.75,1,On-street
+N. King St.,15,"1063-1067, 1069-1078",0.75,2,On-street
+Nahua St.,21,4701-4721,1.5,1,On-street
+Nohonani St.,13,4671-4686,1.5,2,On-street
+Nuuanu Ave.,56,1515-1570,1.5,2,On-street
+Ohua Ave.,25,4801-4825,1.5,1,On-street
+Olohana St.,19,4513-4533,1.5,2,On-street
+Pali Hwy.,5,1501-1505,1.5,2,On-street
+Paoakalani Ave.,18,4831-4848,1.5,1,On-street
+Pauahi St.,37,1701-1737,1.5,2,On-street
+Pensacola St.,20,2351-2370,0.75,1,On-street
+"Piikoi St. Hopaka-Waimanu, S. King-Young",15,"2988-2996, 3008-3013",0.75,2,On-street
+Puncbowl St.,83,2401-2480,1.5,1,On-street
+Queen Emma Sq.,18,450-467,1.5,2,On-street
+Queen Emma St. Queen Emma Sq-Vineyard,17,411-427,1.5,2,On-street
+Richards St.,32,1815-1846,1.5,2,On-street
+River St.,27,1201-1230,1.5,1,On-street
+Royal Hawaiian Ave.,7,4631-4640,1.5,1,On-street
+S. Beretania St.,100,2880-2883,0.75,2,On-street
+S. King St. Mililani-Ward,86,143-228,0.75,1,On-street
+S. King St. Pensacola-Kalakuau,78,2501-2578,0.75,2,On-street
+Saratoga Rd.,19,4441-4459,1.5,1,On-street
+Seaside Ave.,14,4651-4664,1.5,2,On-street
+Smith St.,36,1304-1339,1.5,1,On-street
+Uluniu Ave. (Waikiki),4,"4771, 4773-4775",0.75,1,On-street
+Uluniu St. (Kailua),53,5000-5052,1.5,2,On-street
+Vineyard St.,12,738-749,1.5,2,On-street
+Victoria St.,39,,0.75,2,On-street
+Walina St.,16,4731-4746,1.5,2,On-street
+12th Ave,9,85-93,0.75,2,On-street
+Ahana St.,28,3100-3127,0.75,1,On-street
+Amana St.,25,3070-3094,0.75,2,On-street
+Aulike St.,19,5300-5318,0.75,2,On-street
+Cooke St. Ala Moana-Ilalo,21,3788-3892,0.75,2,On-street
+Cooke St. Pohukaina-S. King St.,84,3800-03883,0.75,2,On-street
+Coral St.,10,3700-3709,0.75,1,On-street
+Halekauwila St. Punchbowl-South,21,"4301-4312, 4349-4357",0.75,1,On-street
+Halekauwila St. Punchbowl-South,36,4313-4348,0.75,2,On-street
+Hoolai St.,17,5551-5567,0.75,1,On-street
+Ilalo St.,18,4201-4218,0.75,2,On-street
+Kaheka St.,51,3128-3178,0.75,2,On-street
+Kainehe St.,18,5450-5467,0.75,2,On-street
+Kalakaua Ave.,10,3241-3250,0.75,2,On-street
+Kamakee St.,14,3405-3418,0.75,1,On-street
+Kanunu St.,49,2701-2749,0.75,2,On-street
+Kapahulu Ave. Ala Wai-Date,18,125-145,0.75,2,On-street
+Kapahulu Ave. Date-Alawai,31,181-209,0.75,2,On-street
+Kapahulu Ave. Haring-Date,26,155-180,0.75,2,On-street
+Kawaiahao St.,52,2201-2252,0.75,2,On-street
+Keawe St.,9,3751-3759,0.75,2,On-street
+Kihapai St.,22,5400-5421,0.75,2,On-street
+Kinau St. Keeaumoku-Makiki (Makai),5,3325-3329,0.75,2,On-street
+Kinau St. Makiki-Keeaumoku (Mauka),8,3330-3337,0.75,1,On-street
+Kinau St. Ward Victoria,11,3314-3324,0.75,3,On-street
+Kohou St.,67,301-537,0.75,2,On-street
+Kokohead Ave.,29,103-131,0.75,2,On-street
+Kuulei Rd.,32,5200-5231,0.75,1,On-street
+Lauhala St.,12,4000-4011,0.75,2,On-street
+Liliha St.,16,1040-1055,0.75,2,On-street
+Liona St.,9,2801-2809,0.75,1,On-street
+Lunalilo St.,15,3338-3352,0.75,2,On-street
+Makaloa St.,81,3251-3279,0.75,3,On-street
+Makiki St.,7,3353-3359,0.75,2,On-street
+Maluniu Ave.,19,5101-5119,0.75,3,On-street
+Metcalf St.,34,1400-1433,0.75,1,On-street
+Mission Ln.,9,700-708,0.75,2,On-street
+N. School St. Frog Ln-Liliha,7,1007-1013,0.75,2,On-street
+N. School St. Nuuanu-Waikahalulu,6,1001-1006,0.75,2,On-street
+Piikoi St. Kapiolani-Kamaile,16,"2983-2987, 2997-3007",0.75,1,On-street
+Pohukaina St.,60,3900-3959,0.75,2,On-street
+Poni St.,20,3201-3220,0.75,2,On-street
+Puniu St.,12,5500-5511,0.75,2,On-street
+Coral-Cooke,3,3547-3549,0.75,2,On-street
+Cummins-Kamakee,7,3550-3556,0.75,1,On-street
+Rycroft St.,29,2782-2812,0.75,2,On-street
+S. King St. Kahuna-Kahoaloha,20,251-278,0.75,2,On-street
+Sheridan St.,25,3280-3305,0.75,2,On-street
+South St.,36,"2142-2144, 2152-2180, 2183-2186",0.75,2,On-street
+South St.,15,"2145-2151, 2187-2194",,2,On-street
+University Ave.,38,1435-1472,0.75,1,On-street
+Waialae Ave.,67,May-70,0.75,2,On-street
+Waimanu St.,42,1901-1961,0.75,1,On-street
+Ward Ave. Queen-Ala Moana,37,2008-2044,0.75,2,On-street
+Ward Ave. S. King Kapiolani (Ewa),7,2001-2007,0.75,1,On-street
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
