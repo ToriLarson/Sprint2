@@ -21,6 +21,7 @@ Here is my code:
   - As shown above I named this table "city_parking"
 I then ran a schema to see how my table would be constructed  
 - sqlite> .schema
+
 Below is the actual code that I wrote:
 
 [SQL_Code](SQLcode.jpeg)
@@ -31,4 +32,6 @@ My First Query:
 
 ### SQLite Studio
 
-After trying a few queries on SQLite and after some research I downloaded SQLite Studio
+After trying a few queries in SQLite and after some research I downloaded SQLite Studio.
+
+I began by creating a new database. I then created a graph from scratch to upload my table into -  
