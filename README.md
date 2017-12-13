@@ -32,6 +32,6 @@ My First Query:
 
 ### SQLite Studio
 
-After trying a few queries in SQLite and after some research I downloaded SQLite Studio.
+After trying a few queries in SQLite and after some research I downloaded SQLiteStudio.
 
-I began by creating a new database. I then created a graph from scratch to upload my table into -  
+I began by creating a new database. I then created a database and imported my CSV file.
